@@ -1,4 +1,4 @@
-- 👋 Hi, I’m engr.</Budo>
+- 👋 Hi, I’m engr. /Budo
 - 👀 I’m interested in Programming and solving coding problems 
 - 🌱 I’m currently learning ... Frontend engineering
 - 💞️ I’m looking to collaborate on ... Frontend engineering to full stack engineering 
