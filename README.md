@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @budo1234
-- 👀 I’m interested in ... Programming 
-- 🌱 I’m currently learning ... Frontend engineering 
+- 👋 Hi, I’m engr.</Budo>
+- 👀 I’m interested in Programming and solving coding problems 
+- 🌱 I’m currently learning ... Frontend engineering
 - 💞️ I’m looking to collaborate on ... Frontend engineering to full stack engineering 
 - 📫 How to reach me ... These is my portfolio 
 https://sites.google.com/view/budocodeportfolio/home
